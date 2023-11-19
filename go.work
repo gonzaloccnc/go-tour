@@ -1,0 +1,12 @@
+go 1.21.4
+
+use (
+	./1.0.welcome
+	./1.1.basics
+	./1.2.flowcontrol
+	./1.3moretypes
+	./2.1methods
+	./3.1generics
+	./4.1concurrency
+	./solutions
+)
